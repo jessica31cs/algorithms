@@ -1,12 +1,3 @@
-/* HW6 read cafefully and follow all the instructions/comments
-   this program compiles and runs as is although it's not doing much.
-   DO NOT CHANGE THE SEED. Changing seed gives a different sequence of
-   numbers but we want the same numbers for comparison purposes.
-
-   FLOATING point radix sort requires some substantial changes to this code
-   float n, lst[N],tmp[N];	
-*/
-
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
